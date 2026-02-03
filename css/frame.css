@@ -297,7 +297,7 @@ hr {
   font-weight: 300;
   line-height: 1.5;
   overflow-x: auto;
-  background-color: #0073e6;
+  background-color: #D9E2F3;
   display: flex;
 }
 
@@ -309,7 +309,7 @@ hr {
 }
 
 .banner .banner-table a {
-  color: #a3cfff;
+  color: #005cbf;
   text-decoration: none;
 }
 
@@ -322,7 +322,7 @@ hr {
 .banner h3,
 .banner p,
 .banner span {
-  color: white;
+  color: #333333;
 }
 
 .banner .flex-item {
