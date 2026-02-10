@@ -1,6 +1,6 @@
-<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background circle -->
-  <circle cx="150" cy="150" r="150" fill="#d3d3d3"/>
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 100%;">
+  <!-- Background rectangle to fill entire container -->
+  <rect width="300" height="300" fill="#d3d3d3"/>
   <!-- Face circle -->
   <circle cx="150" cy="120" r="50" fill="#a0a0a0"/>
   <!-- Eyes -->
