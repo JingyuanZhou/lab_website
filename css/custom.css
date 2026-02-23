@@ -32,3 +32,8 @@
   display: none;
   color: #007bff;
 }
+
+/* 出版物列表按 HTML 顺序显示，新的在前（覆盖 frame 的 column-reverse） */
+ol.publication {
+  flex-direction: column;
+}
