@@ -1,40 +1,22 @@
 /*************************************************************************
- * For loading the footer (world map + visit counts by IP location).
+ * For loading the footer (with RevolverMaps visitor map, no backend).
  * The footer will not work if you open the file directly rather than on a web server.
  *************************************************************************/
 
 (function () {
   "use strict";
 
-  function loadFooterMap() {
-    var container = document.getElementById("footer-map");
-    if (!container || typeof L === "undefined") return;
-    if (window.initFooterMap) window.initFooterMap();
-  }
-
-  function loadLeafletThenMap() {
-    var link = document.createElement("link");
-    link.rel = "stylesheet";
-    link.href = "https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.min.css";
-    link.integrity = "sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=";
-    link.crossOrigin = "anonymous";
-    document.head.appendChild(link);
-    var s = document.createElement("script");
-    s.src = "https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.min.js";
-    s.integrity = "sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=";
-    s.crossOrigin = "anonymous";
-    s.onload = function () {
-      var s2 = document.createElement("script");
-      s2.src = "js/footer-map.js";
-      s2.onload = loadFooterMap;
-      document.body.appendChild(s2);
-    };
-    document.head.appendChild(s);
+  function injectRevolverMaps() {
+    var container = document.getElementById("revolvermaps-container");
+    if (!container || container.querySelector("script")) return;
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "//rf.revolvermaps.com/0/0/6.js?i=5cmhshuph04&m=7&s=320&c=e63100&cr1=ffffff&f=arial&l=0&bv=90&lx=-420&ly=420&hi=20&he=7&hc=a8ddff&rs=80";
+    script.async = true;
+    container.appendChild(script);
   }
 
   $(function () {
-    $(".footer-container").load("footer.html", function () {
-      loadLeafletThenMap();
-    });
+    $(".footer-container").load("footer.html", injectRevolverMaps);
   });
 })();
