@@ -32,26 +32,3 @@
   display: none;
   color: #007bff;
 }
-
-/* Footer: third-party visitor map (RevolverMaps, no backend) */
-.footer-banner .flex-item {
-  max-width: 100%;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-.footer-map-title {
-  margin-bottom: 0.25em;
-}
-.footer-map-embed {
-  width: 100%;
-  max-width: 600px;
-  margin: 0 auto 1em;
-  min-height: 320px;
-  border-radius: 8px;
-  overflow: hidden;
-}
-.footer-map-embed iframe,
-.footer-map-embed script {
-  display: block;
-  margin: 0 auto;
-}
