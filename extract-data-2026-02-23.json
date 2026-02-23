@@ -1,0 +1,628 @@
+{
+  "google_scholar_papers": [
+    {
+      "title": "Parameter Privacy-Preserving Data Sharing: A Particle-Belief MDP Formulation",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2026,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "arXiv",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Fostering Data Collaboration in Digital Transportation Marketplaces: The Role of Privacy-Preserving Mechanisms",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2026,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "arXiv",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Locating and pricing park-and-ride service in the era of autonomous vehicles",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2026,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part B: Methodological",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Neural Cooperative Reach-While-Avoid Certificates for Interconnected Systems",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2026,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "arXiv",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Virtual Traffic Police: Large Language Model-Augmented Traffic Signal Control for Unforeseen Incidents",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2026,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "arXiv",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Robust nonlinear data-driven predictive control for mixed vehicle platoons via koopman operator and reachability analysis",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2026,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part C: Emerging Technologies",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Leveraging Trajectory Continuity to Enhance Real-Time Traffic Signal Control With Limited Connected Vehicle Provision",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Intelligent Transportation Systems Magazine",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Enforcing cooperative safety for reinforcement learning-based mixed-autonomy platoon control",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Stochastic fundamental diagram modeling of mixed traffic flow: A data-driven approach",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part C: Emerging Technologies",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Bi-level control of weaving sections in mixed traffic environments with connected and automated vehicles",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Platoon-centric green light optimal speed advisory using safe reinforcement learning",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Vehicular Technology",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Connected vehicle data-driven robust optimization for traffic signal timing: Modeling traffic flow variability and errors",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Scalable synthesis and verification of string stable neural certificates for interconnected systems",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "arXiv",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Privacy-Aware Control of Cyber Physical Systems",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Smarter Cyber Physical Systems",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Robust explicit data-driven predictive control for mixed vehicle platoons",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Internet of Things Journal",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Interaction-aware trajectory prediction for safe motion planning in autonomous driving: A transformer-transfer learning approach",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "A connected vehicle-based contextual stochastic optimization model for real-time traffic signal timing",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Safe reinforcement learning for mixed-autonomy platoons: A cooperative control barrier function approach",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "American Control Conference",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Control-aware trajectory prediction for communication-free drone swarm coordination in cluttered environments",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "American Control Conference",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Interaction-Aware Parameter Privacy-Preserving Data Sharing in Coupled Systems via Particle Filter Reinforcement Learning",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "arXiv",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Safe reinforcement learning-based eco-driving control for mixed traffic flows with disturbances",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Investigating relationships between ridesourcing and public transit using big data analysis and nonlinear machine learning: A case study of Shanghai, China",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part A: Policy and Practice",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Synthesis and Verification of String Stable Control for Interconnected Systems via Neural sISS Certificate",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "ICLR 2025 Workshop",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Toward real-time operations of modular-vehicle transit services: From rolling horizon control to learning-based approach",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part C: Emerging Technologies",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Enhancing High-Speed Cruising Performance of Autonomous Vehicles through Integrated Deep Reinforcement Learning Framework",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2024,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "A Parameter Privacy-Preserving Strategy for Mixed-Autonomy Platoon Control",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2024,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part C: Emerging Technologies",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2024,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part C: Emerging Technologies",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Enhancing system-level safety in mixed-autonomy platoon via safe reinforcement learning",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2024,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Intelligent Vehicles",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Control-aware trajectory predictions for communication-efficient drone swarm coordination in cluttered environments",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2024,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "arXiv",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Time-to-green predictions for fully-actuated signal control systems with supervised learning",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2024,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Privacy-preserving adaptive traffic signal control in a connected vehicle environment",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2024,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part C: Emerging Technologies",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Differentially private stochastic convex optimization for network routing applications",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2023,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Conference on Decision and Control",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Safe reinforcement learning for mixed-autonomy platoon control",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2023,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE International Conference on Intelligent Transportation",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Graph reinforcement learning for network control via bi-level optimization",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2023,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "International Conference on Machine Learning",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "A traffic signal and loop detector dataset of an urban intersection regulated by a fully actuated signal control system",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2023,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Data in Brief",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Cooperative platoon formation of connected and autonomous vehicles: Toward efficient merging coordination at unsignalized intersections",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2023,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Private location sharing for decentralized routing services",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2022,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE International Conference on Intelligent Transportation",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Reinforcement Learning for Autonomous Mobility-on-Demand Systems: Udvidet resumé",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2022,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Annual Transport Conference at Aalborg University",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Graph meta-reinforcement learning for transferable autonomous mobility-on-demand",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2022,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "ACM SIGKDD Conference",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Trust but verify: Cryptographic data privacy for mobility management",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2022,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Control of Network Systems",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Private and decentralized location sharing for congestion-aware routing",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2022,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "arXiv",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Graph neural network reinforcement learning for autonomous mobility-on-demand systems",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2021,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Conference on Decision and Control",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Real-time control of mixed fleets in mobility-on-demand systems",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2021,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE International Intelligent Transportation Systems Conference",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "On the design of an optimal flexible bus dispatching system with modular bus units: Using the three-dimensional macroscopic fundamental diagram",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2021,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part B: Methodological",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Joint optimization of intersection control and trajectory planning accounting for pedestrians in a connected and automated vehicle environment",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2021,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Sustainability",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Time-to-Green predictions: A framework to enhance SPaT messages using machine learning",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2020,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE International Conference on Intelligent Transportation",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Planning and operations of mixed fleets in mobility-on-demand systems",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2020,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "arXiv",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Enhancement of SPaT-messages with machine learning based time-to-green predictions",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2020,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "European Association for Research in Transportation Symposium",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Implementing transit signal priority in a connected vehicle environment with and without bus stops",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2019,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportmetrica B: Transport Dynamics",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "An auction-based approach for prebooked urban logistics facilities",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2019,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Omega",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Providing public transport priority in the perimeter of urban networks: A bimodal strategy",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2019,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part C: Emerging Technologies",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Heterogeneity aware urban traffic control in a connected vehicle environment: A joint framework for congestion pricing and perimeter control",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2019,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part C: Emerging Technologies",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "On the design and operation of special mobility zones in large urban networks: space allocation and traffic control",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2019,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Board 98th Annual Meeting",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Evaluating the effects of passenger occupancy dynamics on a bi-modal perimeter control",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2019,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Board 98th Annual Meeting",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Evaluating the effects of automated vehicle technology on the capacity of freeway weaving sections",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2018,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part C: Emerging Technologies",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Queue estimation in a connected vehicle environment: A convex approach",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2018,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Multi-scale perimeter control approach in a connected-vehicle environment",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2018,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part C: Emerging Technologies",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Bi-modal automated highway lanes: Control strategy and evaluation",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2018,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "COTA International Conference of Transportation Professionals",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Real-time urban traffic control in a connected and automated vehicle environment",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2018,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "ETH Zürich",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Bewertung der Auswirkungen von automatisierten Fahrzeugen auf die Kapazität von Verflechtungszonen auf Autobahnen",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2018,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Strasse und Verkehr",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Control strategy for bi-modal highway lanes",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2018,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Swiss Transport Research Conference",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "A perimeter control approach integrating dedicated express toll lanes",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2018,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Board 97th Annual Meeting",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Providing public transport priority at urban network perimeters: A bi-modal perimeter control approach",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2018,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Board 97th Annual Meeting",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Integrating perimeter control with dedicated express toll lanes",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2017,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Traffic and Granular Flow Conference",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "A reinforcement learning based traffic signal control algorithm in a connected vehicle environment",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2017,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Swiss Transport Research Conference",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Autonomous vehicle for weaving sections",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2017,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Swiss Transport Research Conference",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Multi-scale perimeter control approach in a connected-vehicle environment",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2017,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Procedia",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Continuous and Discrete-Time Optimal Controls for an Isolated Signalized Intersection",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2017,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Journal of Sensors",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Connected vehicle algorithms for highway weaving sections",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2017,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Traffic and Granular Flow Conference",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "A convex model for queue length estimation in a connected vehicle environment",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2017,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "TRB 96th Annual Meeting Compendium of Papers",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Isolated intersection control for various levels of vehicle technology: Conventional, connected, and automated vehicles",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2016,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part C: Emerging Technologies",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Robustness of a signal control algorithm in a connected vehicle environment",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2016,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Swiss Transport Research Conference",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Using connected-vehicle technology to optimize transit signal priority",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2016,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "TRB 95th Annual Meeting Compendium of Papers",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "A transit signal priority algorithm under connected vehicle environment",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2015,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "IEEE International Conference on Intelligent Transportation",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "A signal control strategy using connected vehicles and loop detector information",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2015,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Swiss Transport Research Conference",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "The optimality condition of the multiple-cycle smoothed curve signal timing model",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2013,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "Transportation Research Part C: Emerging Technologies",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Operation design of last-mile transit service with modular vehicles",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2025,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "SSRN",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    },
+    {
+      "title": "Data-Driven Robust Optimization for Fixed-Time Traffic Signal Timing Based on Connected Vehicles",
+      "title_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "publication_year": 2023,
+      "publication_year_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220",
+      "journal_name": "SSRN",
+      "journal_name_citation": "https://scholar.google.com/citations?hl=en&user=gHv3iBUAAAAJ&view_op=list_works&sortby=pubdate&inst=3212728378801010220"
+    }
+  ]
+}
